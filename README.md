@@ -5,4 +5,4 @@ summarize lengthy YouTube transcripts, saving valuable time and effort.
 # Installation Guide
 Install Vscode
 * How to Run:
-git clone
+git clone: gh repo clone durgakanth/Transcript-Summarizer-for-Youtube
