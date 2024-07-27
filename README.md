@@ -4,5 +4,5 @@ offering a streamlined approach to extracting key information. With this extensi
 summarize lengthy YouTube transcripts, saving valuable time and effort. 
 # Installation Guide
 Install Vscode
-How to Run:
+* How to Run:
 git clone
